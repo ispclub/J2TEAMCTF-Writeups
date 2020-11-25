@@ -1,5 +1,5 @@
 # J2TEAMCTF-Writeups
 
-| Phần 1: | [link](https://github.com/ispclub/J2TEAMCTF-Writeups/blob/main/part1.md) |
-|---------|--------------------------------------------------------------------------|
-| Phần 2: | [link](https://github.com/ispclub/J2TEAMCTF-Writeups/blob/main/part2.md) |
+Phần 1: [J2TEAMCTF-Writeups/part1.md](J2TEAMCTF-Writeups/part1.md)
+<br>
+Phần 2: [J2TEAMCTF-Writeups/part2.md](J2TEAMCTF-Writeups/part2.md)
